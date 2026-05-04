@@ -1,0 +1,16 @@
+{
+  "name": "god",
+  "version": "1.0.0",
+  "description": "Honkai: Star Rail Path Quiz - 崩坏：星穹铁道命途测试",
+  "main": "index.html",
+  "scripts": {
+    "dev": "npx serve .",
+    "build": "echo 'Static HTML project - no build step needed'"
+  },
+  "keywords": ["honkai", "star-rail", "quiz"],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@vercel/analytics": "^1.6.1"
+  }
+}
